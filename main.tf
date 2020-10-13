@@ -3,7 +3,7 @@ terraform {
     organization = "hashicorp-learn"
 
     workspaces {
-      name = "learn-terraform-pipelines-consul"
+      name = "wilmar-s-consul"
     }
   }
 }
